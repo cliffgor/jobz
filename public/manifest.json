@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Jobz",
+  "name": "Jobz is a simple application that enables one to search for jobs that are posted using the GitHub API. From the application, one can also define if they want a remote Job",
   "icons": [
     {
       "src": "favicon.ico",
